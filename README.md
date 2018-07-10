@@ -1,22 +1,60 @@
 # React Fullstack Starter
 
-This is a quick starter for a fullstack app using React.
+Fast and easy to install, fullstack webapp starter template
 
-# Getting Started
-1) git clone https://github.com/AlejandroRodriguezP/React-Fullstack-Starter.git
+## Getting Started
 
-2) npm install
+1. Clone the repository
 
-# Built Using
-React
-Express
-MySQL
+```
+git clone https://github.com/AlejandroRodriguezP/React-Fullstack-Starter.git
+```
 
-# To Run
-When the dependencies are installed you can run this on localhost:3000, to do that we must run the following commands
+### Prerequisites
 
+react ^16.4.1
+mysql ^2.15.0
+express ^4.16.3
+webpack ^4.15.1
+
+
+```
+npm install
+```
+
+### Installing
+
+To start the server
+
+```
 npm start
-to run server
+```
 
+And to run webpack
+
+```
 npm run react-dev
-to run webpack
+```
+
+
+## Built With
+
+* [React](https://reactjs.org/) -  Web Framework
+* [Express](http://expressjs.com/) - Server
+* [MySQL](https://www.mysql.com/) - Database
+
+
+## Author
+
+* **Alejandro Rodriguez** - (https://github.com/AlejandroRodriguezP)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
